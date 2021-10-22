@@ -1,0 +1,29 @@
+#table{
+    margin-top: 2%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+#fgp {
+    /* position:'absolute';
+    right:0; */
+    margin-top: 50px;
+    margin-left:10%;
+    margin-right:10%;
+    display: inline-block;
+}
+
+#s{
+    margin: 10px;
+}
+
+#subtn{
+    margin-top: 25px;
+    align-self: center;
+    height: 38px;
+}
+
+#popover-basic{
+    max-width: fit-content;
+}
